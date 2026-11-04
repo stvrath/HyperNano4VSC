@@ -9,8 +9,4 @@ ipykernel
 
 # Packages used by individual analyses and visualizations
 cmasher
-dill
-pillow
-pyvista
 qutip
-scikit-image
