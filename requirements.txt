@@ -1,0 +1,16 @@
+# Core numerical and plotting dependencies
+numpy
+scipy
+matplotlib
+
+# Notebook environment
+jupyterlab
+ipykernel
+
+# Packages used by individual analyses and visualizations
+cmasher
+dill
+pillow
+pyvista
+qutip
+scikit-image

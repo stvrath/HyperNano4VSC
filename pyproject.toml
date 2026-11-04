@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hyperbolic-cavities-methods"
+version = "0.1.0"
+description = "Numerical methods for hyperbolic hBN cavity calculations"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "scipy",
+    "spectral_density_fit @ git+https://github.com/jfeist/spectral_density_fit.git@fe7ff757028fb1ce59335d5cbe2d9465349d7bc2",
+]
+
+[tool.setuptools]
+packages = ["methods"]
