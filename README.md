@@ -110,5 +110,10 @@ from methods.mastereq import MasterEquationQtp
 
 ## Citation
 
-Citation information and a link to the associated publication will be added
-when available.
+The preprint associated with this repository is available on
+[arXiv](https://arxiv.org/abs/2611.06240).
+
+If you use the code or data from this repository, please cite:
+
+> Stavros Athanasiou, Olivier J. F. Martin, Francisco J. García-Vidal, and Johannes Feist, “Hyperbolic Nanocavities for Single-Molecule Vibrational Strong Coupling,” *arXiv:2611.06240*, 2026.  
+> https://doi.org/10.48550/arXiv.2611.06240
